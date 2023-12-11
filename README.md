@@ -1,4 +1,4 @@
-### Hi there I'm Bilal👋
+### Hi 👋 I'm Bilal
 
 <h2 align="center">Working on</h2>
 
