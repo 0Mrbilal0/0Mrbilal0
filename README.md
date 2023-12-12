@@ -14,12 +14,12 @@
 
 ### 🛠️ Tools
 ![Git](https://img.shields.io/badge/-Git-101010?style=for-the-badge&logo=git&logoColor=white)
-![Git](https://img.shields.io/badge/-VSCode-101010?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/-JETBRAIN-101010?style=for-the-badge&logo=jetbrains&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VSCode-101010?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![JetBrain](https://img.shields.io/badge/-JETBRAIN-101010?style=for-the-badge&logo=jetbrains&logoColor=white)
 
 ### 🖍️DESIGN
 ![Git](https://img.shields.io/badge/-FIGMA-101010?style=for-the-badge&logo=FIGMA&logoColor=white)
-![Git](https://img.shields.io/badge/-adobe%20color-101010?style=for-the-badge&logo=adobe&logoColor=white)
+![Adobe](https://img.shields.io/badge/-adobe%20color-101010?style=for-the-badge&logo=adobe&logoColor=white)
 
 ### 📊 My stats
 ![Bilal's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=0Mrbilal0&show_icons=true&theme=prussian)
