@@ -10,7 +10,7 @@
 
 ![Symfony](https://img.shields.io/badge/-Symfony-101010?style=for-the-badge&logo=Symfony&logoColor=white)
 ![React](https://img.shields.io/badge/-React-101010?style=for-the-badge&logo=React&logoColor=white)
-![React](https://img.shields.io/badge/-Angular-101010?style=for-the-badge&logo=Angular&logoColor=white)
+<a href='https://github.com/0Mrbilal0/Pokedex'>![Angular](https://img.shields.io/badge/-Angular-101010?style=for-the-badge&logo=Angular&logoColor=white)</a>
 
 ### 🛠️ Tools
 ![Git](https://img.shields.io/badge/-Git-101010?style=for-the-badge&logo=git&logoColor=white)
