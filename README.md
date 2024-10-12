@@ -1,10 +1,8 @@
 ## Hi 👋, I'm Bilal
 
-<h2 align="center">Working on</h2>
+[//]: <> (<h2 align="center">Working on</h2>)
 
-...
-
-----
+[//]: <> (----)
 
 ### 🧰 Tech stack
 
