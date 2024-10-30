@@ -19,8 +19,9 @@
 ![Git](https://img.shields.io/badge/-FIGMA-101010?style=for-the-badge&logo=FIGMA&logoColor=white)
 ![Adobe](https://img.shields.io/badge/-adobe%20color-101010?style=for-the-badge&logo=adobe&logoColor=white)
 
-### 📊 My stats
-![Bilal's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=0Mrbilal0&show_icons=true&theme=prussian)
+----
+
+![Bilal's GitHub stats](https://github-readme-stats.vercel.app/api?username=0Mrbilal0&show_icons=true&theme=prussian&custom_title=Mes%20Stats%20Github)
 
 <!--
 **0Mrbilal0/0Mrbilal0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
