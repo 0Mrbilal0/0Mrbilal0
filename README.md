@@ -23,6 +23,8 @@
 
 ![Bilal's GitHub stats](https://github-readme-stats.vercel.app/api?username=0Mrbilal0&show_icons=true&theme=prussian&custom_title=Mes%20Stats%20Github)
 
+[![Minigames](https://github-readme-stats.vercel.app/api/pin/?username=0Mrbilal0&repo=minigames)](https://github.com/0Mrbilal0/minigames)
+
 <!--
 **0Mrbilal0/0Mrbilal0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
